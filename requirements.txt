@@ -1,4 +1,10 @@
-Pandas 
-Numpy 
-Matplotlib 
+Pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+Flask
+dill
 #-e .
+
